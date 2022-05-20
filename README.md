@@ -1,1 +1,5 @@
 # Api_Enerclic
+
+Token de Seguridad
+
+bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InBlZHJvIiwicGFzc3dvcmQiOiIxMjM0In0.mHlY4RNjPyVE0VSBY23ZW5inwHrTGhAROaQD9jkjvq8
